@@ -1,2 +1,2 @@
 # Certificates
-<img src="" alt="" width="500" height="600">
+<img src="image.png" alt="" width="500" height="600">
